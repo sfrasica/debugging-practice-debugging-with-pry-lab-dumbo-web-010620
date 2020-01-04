@@ -14,4 +14,5 @@ def turtle_traits(turtles)
       trait
     end
   end
+  turtle += 1
 end
