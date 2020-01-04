@@ -9,6 +9,8 @@ class Person
     @candy_lover = candy_lover
   end
 
+  initialize(@name, @candy_lover)
+
   def tall?
     true
   end
